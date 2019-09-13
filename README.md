@@ -32,7 +32,7 @@ $ sudo apt-get install libopencv-dev python3-opencv
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get a development env running.
 
 Once you've cloned or downloaded the project, go to the project's folder and run the following commands:
 ```
