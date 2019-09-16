@@ -37,6 +37,7 @@ A step by step series of examples that tell you how to get a development env run
 Once you've cloned or downloaded the project, go to the project's folder and run the following commands:
 ```
 $ cmake .
+
 ```
 ```
 $ make
